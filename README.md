@@ -7,7 +7,7 @@ Empieza tu aventura en el primer RPG clásico de ordenador ambientado en el desp
 
 Imágen
 
-(.\Juego.jpg)
+(C:\Users\Alumno VJ y RV\Documents\GitHub\ClubVideojuegosRetro\Juego.jpg)
 
 Video
  
