@@ -10,6 +10,7 @@ Imágen
 ![Imagen](Juego.jpg)
 
 Video
-
-![Imagen]([Juego.jpg](https://img.youtube.com/vi/7mYd1aV5mW4/0.jpg))[Youtube](https://www.youtube.com/watch?v=7mYd1aV5mW4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/Juego.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=7mYd1aV5mW4))
+![Imagen]([Juego.jpg](https://img.youtube.com/vi/7mYd1aV5mW4/0.jpg))
+[Youtube](https://www.youtube.com/watch?v=7mYd1aV5mW4)
  
