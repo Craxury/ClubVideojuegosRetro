@@ -1,3 +1,10 @@
 # ClubVideojuegosRetro
-## Inventario_Juegos
+
+## Juego 1
+
+Descripción
+
+Imágen
+
+Video
  
