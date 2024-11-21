@@ -11,6 +11,5 @@ Imágen
 
 Video
 
-![Imagen](Juego.jpg)
-[Youtube](https://www.youtube.com/watch?v=7mYd1aV5mW4)
+![Imagen](Juego.jpg)[Youtube](https://www.youtube.com/watch?v=7mYd1aV5mW4)
  
